@@ -6,7 +6,7 @@ body {
 }
 
 .about-container img {
-  width: 45%;
+  width: 75%;
   height: 180px;
   object-fit: none;
   border-radius: 10px;
@@ -200,3 +200,4 @@ footer {
 .social-icons a:hover {
   color: #1da1f2; /* Changes color on hover (e.g., Twitter blue) */
 }
+
